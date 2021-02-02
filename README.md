@@ -20,4 +20,4 @@ You can find some of my projects below!
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JimChr-R4GN4R&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimChr-R4GN4R&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimChr-R4GN4R&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
