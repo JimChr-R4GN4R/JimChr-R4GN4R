@@ -17,6 +17,3 @@ Hi 👋 My name is R4GN4R
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JimChr-R4GN4R&theme=alduin&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=JimChr-R4GN4R&icon=0&color=3)](https://visitcount.itsvg.in)
