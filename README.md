@@ -13,7 +13,6 @@ Hi 👋 My name is R4GN4R
 <a href="https://stackoverflow.com/users/10855235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10855235" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCyvIA53elWGV95pIdmiGuGw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyvia53elwgv95pidmigugw" height="30" width="40" /></a>
 <a href="https://discord.gg/R4GN4R#9538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="R4GN4R#9538" height="30" width="40" /></a>
-</p>
 <a href="https://jimchr-r4gn4r.github.io/mybio/" target="blank"><img align="center" src="https://www.svgrepo.com/show/416639/website-ui-web.svg" alt="R4GN4ARBIO" height="30" width="40" /></a>
 </p>
 
