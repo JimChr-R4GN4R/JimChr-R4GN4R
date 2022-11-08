@@ -8,7 +8,7 @@ Hi 👋 My name is R4GN4R
 
 If you want to see more about me, you may visit my portfolio: <a href="https://jimchr-r4gn4r.github.io/mybio/" target="blank"><img align="center" src="https://www.svgrepo.com/show/416639/website-ui-web.svg" alt="R4GN4ARBIO" height="30" width="40" /></a>
 
-## 🌐Socials
+## You can also find me here:
 <p align="left">
 <a href="https://twitter.com/chr_jim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chr_jim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dimitris-chrysoheris-8bba1520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitris-chrysoheris-8bba1520a/" height="30" width="40" /></a>
