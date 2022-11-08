@@ -15,6 +15,7 @@ If you want to see more about me, you may visit my portfolio: <a href="https://j
 <a href="https://stackoverflow.com/users/10855235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10855235" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCyvIA53elWGV95pIdmiGuGw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyvia53elwgv95pidmigugw" height="30" width="40" /></a>
 <a href="https://discord.gg/R4GN4R#9538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="R4GN4R#9538" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jimchr2001" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="R4GN4R#9538" height="30" width="40" /></a>
 
 </p>
 
