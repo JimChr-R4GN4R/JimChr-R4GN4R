@@ -25,6 +25,7 @@ If you want to see more about me, you may visit my portfolio: <a href="https://j
 # 📊GitHub Stats :
 
 [![R4GN4Rs' GitHub stats](https://github-readme-stats.vercel.app/api?username=JimChr-R4GN4R&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimChr-R4GN4R&layout=compact&theme=dark&count_private=true&hide_border=true&hide=c%2B%2B&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆GitHub Trophies
