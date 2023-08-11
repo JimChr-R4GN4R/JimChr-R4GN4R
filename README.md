@@ -6,7 +6,7 @@ Hi 👋 My name is R4GN4R
 
 🧠  I'm currently learning Cryptography and Web design and development.
 
-If you want to see more about me, you may visit my portfolio: <a href="https://jimchr-r4gn4r.github.io/mybio/" target="blank"><img align="center" src="https://www.svgrepo.com/show/416639/website-ui-web.svg" alt="R4GN4ARBIO" height="30" width="40" /></a>
+If you want to see more about me, you may visit my portfolio: <a href="https://dimitrios-chrysocheris.vercel.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/416639/website-ui-web.svg" alt="R4GN4ARBIO" height="30" width="40" /></a>
 
 ## You can also find me here:
 <p align="left">
