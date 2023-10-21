@@ -1,5 +1,6 @@
 # 💫 About Me:
 🎓 Currently studying Computer Science at University of Piraeus, Greece I upload a lot of different stuff, like programming projects 💻, write ups about CTF challenges 🚩 and hacking tools!<br><br>🧠 I'm currently learning Cryptography and Web design and development.
+For more information about me you may visit my portfolio: https://dimitrios-chrysocheris.vercel.app/
 
 
 ## 🌐 Socials:
